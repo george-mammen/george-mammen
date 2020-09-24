@@ -35,14 +35,8 @@
 <br />
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-mammen&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-mammen&repo=convoychat" />
-</a>
-
-
+<img align="left" alt="george-mammen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=george-mammen&show_icons=true&hide_border=true" />
+<img align="center" alt="george-mammen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=george-mammen&layout=compact" />
 
 [instagram]: https://instagram.com/george-mammen-paul
 [linkedin]: https://linkedin.com/in/george-mammen-kurien

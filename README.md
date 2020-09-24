@@ -35,7 +35,7 @@
 
 ---
 <img align="left" alt="george-mammen's Github Stats" 
-src="https://github-readme-stats.codestackr.vercel.app/api?username=george-mammen&show_icons=true&hide_border=true" width="500" /> <img align="right" alt="george-mammen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=george-mammen&layout=compact" width="500" />
+src="https://github-readme-stats.codestackr.vercel.app/api?username=george-mammen&show_icons=true&hide_border=true" width="400" /> <img align="right" alt="george-mammen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=george-mammen&layout=compact" width="300" />
 
 [instagram]: https://instagram.com/george-mammen-paul
 [linkedin]: https://linkedin.com/in/george-mammen-kurien

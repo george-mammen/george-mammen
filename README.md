@@ -31,13 +31,5 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]--->
 
 <br />
-<br />
-
----
-<img align="left" alt="george-mammen's Github Stats" 
-src="https://github-stats-e0h0g6sns.vercel.app/api?username=george-mammen&show_icons=true" width="450" /> <img align="right" alt="george-mammen's Github Stats" src="https://github-stats-e0h0g6sns.vercel.app/api/top-langs/?username=george-mammen&layout=compact" width="350" />
-
-[instagram]: https://instagram.com/george-mammen-paul
-[linkedin]: https://linkedin.com/in/george-mammen-kurien
 
 

@@ -1,6 +1,6 @@
 ### 
 
-## I am a Developer !
+## Student cum Developer !
 
 - 👨‍💻 In the pursuit to master Web and App Development!
 - 🏢 Entrepreneurship is indeed the dream.

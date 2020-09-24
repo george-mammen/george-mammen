@@ -1,6 +1,6 @@
-### 
+### Heylo People 
 
-## Student cum Developer !
+## Student + Developer !
 
 - 👨‍💻 In the pursuit to master Web and App Development!
 - 🏢 Entrepreneurship is indeed the dream.

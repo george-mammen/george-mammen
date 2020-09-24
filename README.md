@@ -32,4 +32,6 @@
 
 <br />
 
+[linkedin]:https://www.linkedin.com/in/george-mammen-kurien
+[instagram]:https://www.instagram.com/george_mammen_paul
 

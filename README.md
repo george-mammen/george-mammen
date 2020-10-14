@@ -2,7 +2,7 @@
 
 ## Student + Developer !
 
-- 👨‍💻 In the pursuit to master Web and App Development!
+- 👨‍💻 In the pursuit to learning Web and App Development!
 - 🏢 Entrepreneurship is indeed the dream.
 - 🆘 Hit me up if I can come of any help.
 - 🗣️ I also do Public Speaking and Content Writing.

@@ -2,10 +2,10 @@
 
 ## Student + Developer !
 
-- 👨‍💻 In the pursuit to learning Web and App Development!
-- 🏢 Entrepreneurship is indeed the dream.
+- 👨‍💻 Lost in the middle of Web and App Development
+- 🏢 Who doesn't want to be an entrepreneur?
+- 💻 I also do UI/UX Designing and Technical Content Writing.
 - 🆘 Hit me up if I can come of any help.
-- 🗣️ I also do Public Speaking and Content Writing.
 
 ### Hit me up:
 [<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

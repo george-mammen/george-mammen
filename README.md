@@ -3,7 +3,6 @@
 ## Student + Developer !
 
 - 👨‍💻 Lost in the middle of Web and App Development
-- 🏢 Who doesn't want to be an entrepreneur?
 - 💻 I also do UI/UX Designing and Technical Content Writing.
 - 🆘 Hit me up if I can come of any help.
 

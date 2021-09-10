@@ -9,6 +9,7 @@
 
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-mammen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hit me up:
 [<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]

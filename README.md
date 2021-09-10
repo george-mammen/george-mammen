@@ -13,7 +13,7 @@
 <br /><br />
 
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen&theme=dark&show_icons=true)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen&theme=dark&show_icons=true&hide=stars,commits,prs,contribs)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-mammen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

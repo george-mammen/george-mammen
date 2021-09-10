@@ -6,6 +6,8 @@
 - 💻 I also do UI/UX Designing and Technical Content Writing.
 - 🆘 Hit me up if I can come of any help.
 
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hit me up:
 [<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="george-mammen | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

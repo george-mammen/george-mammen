@@ -3,19 +3,19 @@
 ## Student Developer !!
 
 - 👨‍💻 Some learning going into Web Development.
-- 💻 The work includes UI/UX Designing and Technical Content Writing.
+- 💻 Domain also includes UI/UX Designing and Technical Content Writing.
 - 🆘 Hit me up if I can come of any help.
-
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-mammen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### Hit me up:
 [<img align="left" alt=" george-mammen | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="george-mammen | Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-<br />
+
+
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-mammen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages:
 

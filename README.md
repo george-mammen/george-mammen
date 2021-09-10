@@ -1,16 +1,18 @@
 ### Heyyo People 
 
-## Student + Developer !
+## Student Developer !!
 
-- 👨‍💻 Lost in the middle of Web and App Development
-- 💻 I also do UI/UX Designing and Technical Content Writing.
+- 👨‍💻 Some learning going into Web Development.
+- 💻 The work includes UI/UX Designing and Technical Content Writing.
 - 🆘 Hit me up if I can come of any help.
+
+
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-mammen)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hit me up:
-[<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="george-mammen | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="george-mammen | Instagram" width="24px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
@@ -30,9 +32,6 @@
 <img align="left" alt="Bootstrap" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="jQuery" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Express.js" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<!---[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]--->
-
 <br />
 
 [linkedin]:https://www.linkedin.com/in/george-mammen-kurien

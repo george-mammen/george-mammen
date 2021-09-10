@@ -12,8 +12,8 @@
 
 
 ### Hit me up:
-[<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="george-mammen | Instagram" width="24px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt=" george-mammen | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="george-mammen | Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 

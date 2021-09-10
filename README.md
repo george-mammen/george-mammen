@@ -34,6 +34,6 @@
 <img align="left" alt="Express.js" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <br />
 
-[linkedin]:https://www.linkedin.com/in/george-mammen-kurien
-[instagram]:https://www.instagram.com/george_mammen_paul
+[linkedin]:https://www.linkedin.com/in/george-mammen-kurien-4953781b1/
+[instagram]:https://www.instagram.com/georgemammen_/
 
